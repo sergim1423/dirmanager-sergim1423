@@ -1,0 +1,33 @@
+{
+  "name": "dirmanager-sergim1423",
+  "version": "1.0.0",
+  "description": "**NOTE:** The .gitignore file has been modified so that the dist folder is pushed.",
+  "main": "dist/index.js",
+  "bin": {
+    "manage": "./dist/index.js"
+  },
+  "dependencies": {
+    "commander": "^9.4.1",
+    "figlet": "^1.5.2",
+    "ts-node": "^10.9.1"
+  },
+  "scripts": {
+    "build": "npx tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/dirmanager-sergim1423.git"
+  },
+  "keywords": [],
+  "author": "Sergi Manolov <sergi.m.1423@gmail.com> (https://github.com/sergim1423)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/dirmanager-sergim1423/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/dirmanager-sergim1423#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "typescript": "^4.8.4"
+  }
+}
