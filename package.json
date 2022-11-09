@@ -17,15 +17,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RVCC-IDMX/dirmanager-sergim1423.git"
+    "url": "git+https://github.com/sergim1423/dirmanager-sergim1423"
   },
   "keywords": [],
   "author": "Sergi Manolov <sergi.m.1423@gmail.com> (https://github.com/sergim1423)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RVCC-IDMX/dirmanager-sergim1423/issues"
+    "url": "https://github.com/sergim1423/dirmanager-sergim1423/issues"
   },
-  "homepage": "https://github.com/RVCC-IDMX/dirmanager-sergim1423#readme",
+  "homepage": "https://github.com/sergim1423/dirmanager-sergim1423#readme",
   "devDependencies": {
     "@types/node": "^18.11.9",
     "typescript": "^4.8.4"
